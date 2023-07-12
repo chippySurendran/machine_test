@@ -13,7 +13,7 @@
          Execute the command "php artisan migrate".   
     </li>
     <li>
-    To run the project execute the command "php artisan serve".
+    To run the project, execute the command "php artisan serve".
     </li>
 </ul>
 
